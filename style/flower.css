@@ -1,0 +1,46 @@
+.first{
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+
+
+
+}
+.head{
+    background: rgba(229, 84, 115, 0.10);
+margin-left: 240px;
+margin-right: 972px;
+margin-top: 200px;
+margin-bottom: 365px;
+}
+.btn{
+
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 1503px;
+margin-bottom: 267px;
+}
+.pera{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 166.667% */
+margin-bottom: 243px;
+
+}
+
+
+
+
+
+
+
